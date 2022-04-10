@@ -1,1 +1,1 @@
-This website working on TMDB's Api requests
+This website works on TMDB's Api requests
